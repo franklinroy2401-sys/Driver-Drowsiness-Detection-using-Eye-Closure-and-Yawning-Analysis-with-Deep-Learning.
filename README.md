@@ -179,7 +179,7 @@ Driver-Drowsiness-Detection/
 
 ---
 
-## 📌 Conclusion
+## Conclusion
 
 This project demonstrates how deep learning can be applied to improve road safety by detecting driver fatigue using visual indicators. By combining eye and mouth analysis, the system provides a practical and effective approach to drowsiness detection.
 
